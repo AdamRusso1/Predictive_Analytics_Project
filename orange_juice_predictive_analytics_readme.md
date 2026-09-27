@@ -14,8 +14,8 @@ The goal of this project is to model and predict the sales volume (`logmove`) of
 ## 📁 Repository Contents
 
 *   **`Cw1_code.R`**: The complete R script used for Data Exploration, Assumption Checking, Model Building (Simple, Multiple, Quadratic, Interaction, and Stepwise selection), and Model Evaluation.
-*   **`Individual_Essay.pdf`**: The comprehensive 3,400+ word final report detailing the statistical methodology, rigorous OLS assumption diagnostics, and economic interpretations of the model coefficients.
-*   **`oj.csv`**: The dataset containing 1,728 observations spanning 120 weeks. Includes variables for Store, Brand, Week, Logmove (log of units sold), Price, and Feature. *(Note: Ensure this is uploaded to your repository or update the path in the R script).*
+*   **`Report.pdf`**: The comprehensive 3,400+ word final report detailing the statistical methodology, rigorous OLS assumption diagnostics, and economic interpretations of the model coefficients.
+*   **`oj.csv`**: The dataset containing 1,728 observations spanning 120 weeks. Includes variables for Store, Brand, Week, Logmove (log of units sold), Price, and Feature. 
 
 ## 🛠️ Methodology & Modeling
 
