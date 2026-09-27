@@ -1,2 +1,6 @@
 # Predictive_Analytics_Project
-Final Report and the  R code used to analyse the Data.
+
+This project includes:
+- `README.md` with project overview
+- `analysis.R` for the R code
+- `Final_Report.pdf` for the final report
